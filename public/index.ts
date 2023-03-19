@@ -1,0 +1,13 @@
+export { default as Facebook } from "./icon-facebook.svg";
+export { default as Twitter } from "./icon-twitter.svg";
+export { default as Linkedin } from "./icon-linkedin.svg";
+export { default as RickLogo } from "./rick-sanchez-logo.svg";
+export { default as RickSlider1 } from "./slider-rick1.jpg";
+export { default as RickSlider2 } from "./slider-rick2.jpg";
+export { default as RickSlider3 } from "./slider-rick3.jpg";
+export { default as RickSlider4 } from "./slider-rick4.jpg";
+export { default as RickSlider5 } from "./slider-rick5.jpg";
+export { default as RickSlider6 } from "./slider-rick6.jpg";
+export { default as RickSlider7 } from "./slider-rick7.jpg";
+export { default as RickSlider8 } from "./slider-rick8.jpg";
+export { default as RickSlider9 } from "./slider-rick9.jpg";
