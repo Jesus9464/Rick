@@ -1,6 +1,6 @@
 import { InitialStateCharacters } from "@/common/utils";
 import { combineReducers, createReducer } from "@reduxjs/toolkit";
-import { getAllCharacters, getCharacterId } from "../actions";
+import { getAllCharacters } from "../actions";
 
 const initialState: InitialStateCharacters = {
   loading: "loaded",
