@@ -14,7 +14,7 @@ function Navbar() {
             className="btn btn-link text-white text-width notUnderlined font-weight-bold"
             style={{ fontSize: "28px", marginLeft: -40 }}
             navigation="/"
-            name="Home Rick"
+            name="Home Jesus"
           />
         </div>
         <button
